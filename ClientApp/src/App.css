@@ -1,0 +1,15 @@
+.header {
+  margin: 1.5rem;
+  margin-left: 0;
+}
+
+.body {
+  margin: 1em 1em 1em 2em;
+}
+
+.watermark {
+  color: whitesmoke;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
